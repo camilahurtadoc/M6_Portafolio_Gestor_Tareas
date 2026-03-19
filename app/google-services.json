@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "812084022349",
+    "project_id": "casapaico",
+    "storage_bucket": "casapaico.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812084022349:android:8bdc58d88c013942892004",
+        "android_client_info": {
+          "package_name": "com.tecsup.authfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5YNS7-IHtsmZPUupbmvJKs2pXBdvb6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812084022349:android:232fd884bf15f164892004",
+        "android_client_info": {
+          "package_name": "com.tecsup.miappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5YNS7-IHtsmZPUupbmvJKs2pXBdvb6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812084022349:android:c999a25e58427929892004",
+        "android_client_info": {
+          "package_name": "com.tecsup.taskmanagerpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5YNS7-IHtsmZPUupbmvJKs2pXBdvb6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
